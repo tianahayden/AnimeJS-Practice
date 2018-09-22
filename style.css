@@ -1,0 +1,33 @@
+.box {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: inline-flex;
+    font-size: 200px;
+    font-family: 'Notable', sans-serif;
+    font-weight: bold;
+    color: #BFC9CA;
+}
+
+body {
+    display:flex;
+}
+
+/* .red {
+    color: #E74C3C;
+}
+
+.orange {
+    color: #F1C40F;
+}
+
+.green {
+    color: #27AE60;
+}
+.blue {
+    color: #3498DB;
+}
+.purple {
+    color: #9B59B6;
+} */
