@@ -1,10 +1,10 @@
 .box {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 15vw;
+    height: 15vw;
     margin: auto;
     display: inline-flex;
-    font-size: 200px;
+    font-size: 15vw;
     font-family: 'Notable', sans-serif;
     font-weight: bold;
     color: #BFC9CA;

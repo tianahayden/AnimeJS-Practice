@@ -13,8 +13,8 @@ anime({
         { value: '1' }
     ],
     fontSize: [
-        { value: '150px' },
-        { value: '250px' }
+        { value: '12vw' },
+        { value: '15vw' }
     ],
     color: '#00ffe7', 
 })
@@ -34,8 +34,8 @@ anime({
         { value: '1' }
     ],
     fontSize: [
-        { value: '150px' },
-        { value: '250px' }
+        { value: '12vw' },
+        { value: '15vw' }
     ],
     color: '#00ead4', 
     delay: '200'
@@ -56,8 +56,8 @@ anime({
         { value: '1' }
     ],
     fontSize: [
-        { value: '150px' },
-        { value: '250px' }
+        { value: '12vw' },
+        { value: '15vw' }
     ],
     color: '#00d5c1', 
     delay: '400'
@@ -78,8 +78,8 @@ anime({
         { value: '1' }
     ],
     fontSize: [
-        { value: '150px' },
-        { value: '250px' }
+        { value: '12vw' },
+        { value: '15vw' }
     ],
     color: '#00b9a8', 
     delay: '600'
@@ -100,8 +100,8 @@ anime({
         { value: '1' }
     ],
     fontSize: [
-        { value: '150px' },
-        { value: '250px' }
+        { value: '12vw' },
+        { value: '15vw' }
     ],
     color: '#009f91', 
     delay: '800'
